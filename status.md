@@ -1,3 +1,9 @@
+### 2023/05/29
+```
+ .acme.sh/acme.sh --renew -d beagle.chat --force
+.acme.sh/acme.sh --renew -d dns3.xyz --force
+nginx -s reload
+```
 ### 2022/8/11 - 2022/8/14
 #### set up a new rpc node for metamask and web3
 - nginx conf
